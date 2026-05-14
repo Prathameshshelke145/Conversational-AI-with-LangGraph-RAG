@@ -199,7 +199,7 @@ project/
 
 ```bash
 git clone https://github.com/Prathameshshelke145/Conversational-AI-with-LangGraph-RAG.git
-cd your-repository-name
+cd Conversational-AI-with-LangGraph-RAG
 ```
 
 ---
