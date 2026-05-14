@@ -169,7 +169,7 @@ This is much closer to how modern production AI systems operate.
 ```bash
 project/
 │
-├── chatbot_with_rag_no_mcp.py
+├── chatbot_with_rag.py
 │      # Core LangGraph workflow
 │      # Tool definitions
 │      # RAG pipeline
