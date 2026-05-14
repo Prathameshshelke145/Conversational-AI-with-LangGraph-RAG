@@ -198,7 +198,7 @@ project/
 # 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Prathameshshelke145/Conversational-AI-with-LangGraph-RAG.git
 cd your-repository-name
 ```
 
